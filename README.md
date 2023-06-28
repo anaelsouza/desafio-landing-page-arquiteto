@@ -1,5 +1,5 @@
 # desafio-landing-page-arquiteto
-Desafio 1 do Curso de Tecnologia da DNC, desenvolver uma landing page para um arquiteto.
+Desafio 1 do Curso de Tecnologia da DNC, desenvolver uma landing page para uma empresa de Projetos para Arquitetura.
 
 Link da Landing Page: https://desafio1-escoladnc.netlify.app/
 
