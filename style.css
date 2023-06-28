@@ -1,0 +1,132 @@
+*{
+    font-family: "Inter";
+    padding: 0;
+    margin: 0;
+}
+#menu-apresentacao{
+    background-color: #303030;
+    color: #ffff;
+    padding-left: 50px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.titulo-apresentacao{
+    color: white;
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.texto-apresentacao{
+    color: white;
+    font-size: 22px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+#dados{
+    background-color: #f9f9f9;
+    color: #000000;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.dados-titulo{
+    color: #000000;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+.dados-texto{
+    color:#000000;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 40px;
+}
+
+#informacoes-gerais{
+    background-color: #ffffff;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.informacoes-textoetitulo{
+    align-items: center;
+    padding-top: 180px;
+    padding-left: 80px;
+
+}
+
+#informacoes-titulo{
+    font-size: 52px;
+    font-weight: 500;
+}
+
+#informacoes-texto{
+    font-size: 25px;
+    padding-top: 5%;
+    font-weight: 300;
+}
+
+#informacoes-imagem{
+    width: 500px;
+    height: 700px;
+    left: 976px;
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+
+#menu-formulario{
+    background-color: #303030;
+    text-align: center;
+}
+
+#titulo-formulario{
+    counter-reset: #ffff;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+input {
+    width: 308px;
+    height: 42px;
+    font-size: 15px;
+    background-color: #FFFFFF;
+    font-family: "raleway";
+    border-radius: 10px;
+    border: 0px;
+    margin: 5px;
+    padding-left: 10px;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: "raleway";
+    color: #FFFFFF;
+    background: #C07212;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #d68d34;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    color: white;
+    box-shadow: 2px 8px 8px #9c5906;
+}
