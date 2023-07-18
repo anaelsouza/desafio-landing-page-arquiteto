@@ -1,5 +1,6 @@
 # desafio-landing-page-arquiteto
 Desafio 1 do Curso de Tecnologia da DNC, desenvolver uma landing page para uma empresa de Projetos para Arquitetura!
+Registro de informações feito pelo SheetMonkey para exportação em planilha, após isso usado Repositório Git e o Upload do site diretamente pela Netlify.
 
 Link da Landing Page: https://desafio1-escoladnc.netlify.app/
 
